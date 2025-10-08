@@ -66,6 +66,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phonghuynh031226) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@phongphongphong2006)  
 
----
-
-🔥 *“Code not just to solve problems, but to create worlds – from web apps to Minecraft servers.”* ⛏️☁️  
