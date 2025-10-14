@@ -58,6 +58,22 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phonghuynh2006&theme=tokyonight)  
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Tổng quan hoạt động -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Phonghuynh2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+
+  <!-- Ngôn ngữ sử dụng nhiều nhất -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phonghuynh2006&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+
+  <!-- Chuỗi hoạt động (streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phonghuynh2006&theme=tokyonight" alt="GitHub Streak" height="160"/>
+
+</div>
+
+---
 
 ## 🌐 Kết nối với mình  
 
